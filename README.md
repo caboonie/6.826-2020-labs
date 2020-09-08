@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.com/mit-pdos/6.826-labs.svg?token=1SPwqpqUkmsUej6KT47u&branch=master)](https://travis-ci.com/mit-pdos/6.826-labs)
 
 ## Lab 1: StatDB
-
+ 
 In this lab, you will familiarize yourself with the lab infrastructure,
 in the context of simple procedures that use variables.  The first part
 of the lab exposes you to writing code, specifications, and proofs,
